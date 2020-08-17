@@ -1,0 +1,170 @@
+{
+    "draco_black.png": {
+        "treshhold": 0.885,
+        "coord": []
+    },
+    "draco_green.png": {
+        "treshhold": 0.885,
+        "coord": []
+    },
+    "draco_red.png": {
+        "treshhold": 0.885,
+        "coord": []
+    },
+    "flower_1.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "flower_2.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "flower_3.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "flower_4.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "jap_1.png": {
+        "treshhold": 0.9,
+        "coord": []
+    },
+    "jap_2.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "jap_3.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "jap_4.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "jap_5.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "jap_6.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "jap_7.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "jap_8.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "jap_9.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "season_1.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "season_2.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "season_3.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "season_4.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "stick_1.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "stick_2.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "stick_3.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "stick_4.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "stick_5.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "stick_6.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "stick_7.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "stick_8.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "stick_9.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "weel_1.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "weel_2.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "weel_3.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "weel_4.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "weel_5.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "weel_6.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "weel_7.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "weel_8.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "weel_9.png": {
+        "treshhold": 0.75,
+        "coord": []
+    },
+    "wind_e_char.png": {
+        "treshhold": 0.9,
+        "coord": []
+    },
+    "wind_n_char.png": {
+        "treshhold": 0.9,
+        "coord": []
+    },
+    "wind_s_char.png": {
+        "treshhold": 0.9,
+        "coord": []
+    },
+    "wind_w_char.png": {
+        "treshhold": 0.9,
+        "coord": []
+    }
+}
