@@ -1,0 +1,52 @@
+ Volume in drive D is Data
+ Volume Serial Number is 6CC3-5FFC
+
+ Directory of D:\Documents\GitHub\MahjongTitans\tiles
+
+08/15/2020  09:40 PM    <DIR>          .
+08/15/2020  09:40 PM    <DIR>          ..
+08/15/2020  08:24 PM            17,307 draco_black.png
+08/15/2020  08:04 PM            15,553 draco_green.png
+08/15/2020  09:17 PM            16,854 draco_red.png
+08/15/2020  09:35 PM            12,816 flower_1.png
+08/15/2020  08:17 PM            16,231 flower_2.png
+08/15/2020  09:32 PM            14,397 flower_3.png
+08/15/2020  09:37 PM            15,219 flower_4.png
+08/15/2020  08:21 PM             8,377 jap_1.png
+08/15/2020  08:12 PM             9,503 jap_2.png
+08/15/2020  08:11 PM            11,753 jap_3.png
+08/15/2020  08:18 PM            11,081 jap_4.png
+08/15/2020  08:19 PM            13,295 jap_5.png
+08/15/2020  08:35 PM            13,298 jap_6.png
+08/15/2020  08:18 PM            13,415 jap_7.png
+08/15/2020  08:10 PM            12,531 jap_8.png
+08/15/2020  08:34 PM            13,702 jap_9.png
+08/15/2020  09:40 PM                 0 list.txt
+08/15/2020  08:23 PM            14,986 season_1.png
+08/15/2020  08:15 PM            15,557 season_2.png
+08/15/2020  09:32 PM            14,517 season_3.png
+08/15/2020  08:20 PM            11,353 season_4.png
+08/15/2020  08:16 PM            14,349 stick_1.png
+08/15/2020  08:17 PM            11,105 stick_2.png
+08/15/2020  08:10 PM            12,323 stick_3.png
+08/15/2020  08:28 PM            13,555 stick_4.png
+08/15/2020  08:13 PM            14,004 stick_5.png
+08/15/2020  08:11 PM            14,114 stick_6.png
+08/15/2020  08:04 PM            14,709 stick_7.png
+08/15/2020  09:34 PM            16,462 stick_8.png
+08/15/2020  08:04 PM            14,668 stick_9.png
+08/15/2020  08:16 PM            14,837 weel_1.png
+08/15/2020  08:25 PM            13,253 weel_2.png
+08/15/2020  08:30 PM            14,233 weel_3.png
+08/15/2020  08:12 PM            15,039 weel_4.png
+08/15/2020  08:25 PM            14,793 weel_5.png
+08/15/2020  08:30 PM            16,721 weel_6.png
+08/15/2020  09:28 PM            16,221 weel_7.png
+08/15/2020  08:19 PM            16,368 weel_8.png
+08/15/2020  08:31 PM            15,574 weel_9.png
+08/15/2020  08:09 PM            16,236 wind_e.png
+08/15/2020  08:24 PM            15,816 wind_n.png
+08/15/2020  08:13 PM            15,864 wind_s.png
+08/15/2020  08:04 PM            15,095 wind_w.png
+              43 File(s)        597,084 bytes
+               2 Dir(s)  104,118,214,656 bytes free
